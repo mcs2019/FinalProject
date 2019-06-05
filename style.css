@@ -61,7 +61,7 @@ font-family: 'Kaushan Script', cursive; */
 
 .sightSeeing{
   color:white;
-  background-image: url(mirante/pords.jpg);
+  background-image: url("pordosol/pordosol.jpg");
   background-repeat: no-repeat, repeat;
   padding: 15px;
   background-size:100% 100%;
